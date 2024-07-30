@@ -1,4 +1,10 @@
 ## Hi there 👋
+My personal website is [guowei.fun](https://www.guowei.fun/)
+
+## Self introduction
+* 独立开发者
+* 全栈工程师
+* 连续创业人
 
 <!--
 **ygweric/ygweric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

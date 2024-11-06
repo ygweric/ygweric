@@ -1,8 +1,8 @@
 ## Hi there 👋
 My personal website is [guowei.fun](https://www.guowei.fun/)
 
-## [个人博客](https://www.guowei.fun/)
-## [学习笔记](https://study.guowei.fun/)
+## [个人博客 guowei.fun](https://www.guowei.fun/)
+## [学习笔记 study.guowei.fun](https://study.guowei.fun/)
 
 ## Self introduction
 * 独立开发者
